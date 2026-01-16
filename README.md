@@ -1,3 +1,7 @@
-#In this code, we used an opensource dataset that provided the information of more than 4000 people from the region of Framingham in England.
-We used the logistic regression algorithm, after cleaning the dataset we ended with the information of around 3000 patients, then we divided 
-it in 70% for training and 30% for test. The output that we get predicts if a person is going to have CHD in the next 10 years. 
+This project was made as a project for the social sevice i did in ENP 4 UNAM.
+In this project we used a public dataset from a study made in Framingham, Massachusetts.
+The purpose of the study was to understand the causes of cardiovascular diseases. They
+monitor around 5000 people gathering information about their health every two years during 
+ten years and checking if they had developed Coronary Heart Disease. 
+The purpose of this project was to use this data to create AI models using linear regression 
+and decision tree to predict if a person is going to develop CHD.
